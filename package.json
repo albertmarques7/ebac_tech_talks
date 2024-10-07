@@ -9,10 +9,12 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.12.0",
+    "node": "^20.18.0",
     "parcel": "^2.12.0",
     "sharp": "^0.31.3"
-  }
+  },
+  "main": "index.js",
+  "description": ""
 }
